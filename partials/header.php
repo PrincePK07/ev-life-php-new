@@ -87,7 +87,7 @@
                   </ul>
                 </li>
                 <li class="nav-item" id="nav-id">
-                  <a class="nav-link"  href="#">Models</a>
+                  <a class="nav-link"  href="./models.php">Models</a>
                 </li>
 
                 <li class="nav-item"  id="nav-id">
